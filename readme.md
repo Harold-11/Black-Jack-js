@@ -7,3 +7,6 @@ Pasos para ejecutar proyecto:
 # Producción
 1. Ejecutar npm run build
 2. Tomar la carpeta dist y desplegarla
+
+# Enlace
+https://harold-11.github.io/Black-Jack-js/
